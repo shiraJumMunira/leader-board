@@ -1,0 +1,66 @@
+.header-section {
+    background-color: #562EFF;
+}
+.navbar img {
+    width: 45px;
+}
+.nav-link {
+    color: white !important;
+    font-size: 20px;
+}
+.background-color{
+    background-color: #E5E5E5;
+}
+.profile-details {
+    margin-top: 50px;
+}
+.profile-details img {
+    width: 80px;
+}
+.player-section {
+    background-color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.bolg-section{
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+h1 {
+    color: #562EFF;
+}
+.purple-color {
+    color: #7757FF;
+}
+.card-title, .card-text{
+    margin: 0;
+}
+.card {
+    border: none;
+}
+.course-section{
+    border-radius: 8px;
+}
+.card-footer img {
+    width: 16px;
+}
+.red-color {
+    color: red;
+}
+.rounded-pill {
+    background-color: #FFE4E8;
+    padding: 0px 15px;
+}
+.card-footer {
+    border: 0;
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+    padding-bottom: 20px;
+}
+.card-all .size {
+    padding: 20px;
+}
+.card-all {
+    border-radius: 20px;
+}
